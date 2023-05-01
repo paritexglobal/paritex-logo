@@ -1,4 +1,4 @@
-# paritex-logo
+# Paritex logo
 
 Main colors 
 
